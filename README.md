@@ -12,7 +12,7 @@ Step 5: Create a CNN to classify Dog Breeds (using Transfer Learning) <br />
 Step 6: Write an algorithm <br />
 Step 7: Test algorithm <br />
 <br />
-ResNet50 is a variant of ResNet model which has 48 Convolution layers along with 1 MaxPool and 1 Average Pool layer. It has 3.8 x 10^9 Floating points operations. It is a widely used ResNet model and we have explored ResNet50 architecture in depth. his architecture can be used on computer vision tasks such as image classififcation, object localisation, object detection.And this framework can also be applied to non computer vision tasks to give them the benifit of depth and to reduce the computational expense also. <br />
+ResNet50 is a variant of ResNet model which has 48 Convolution layers along with 1 MaxPool and 1 Average Pool layer. It has 3.8 x 10^9 Floating points operations. It is a widely used ResNet model and we have explored ResNet50 architecture in depth. This architecture can be used on computer vision tasks such as image classififcation, object localisation, object detection.And this framework can also be applied to non computer vision tasks to give them the benifit of depth and to reduce the computational expense also. <br />
 
 Here's the output:
 ![](dogbreedflask.gif)
